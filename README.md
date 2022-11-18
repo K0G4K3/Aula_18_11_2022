@@ -1,1 +1,1 @@
-# Treinando git hub e project
+# Treinando Git, GitHub e Project
